@@ -8,6 +8,7 @@ crée un fichier readme.md avec le contenu # name-projet
     
     > git init
     > git add README.md
+    > git add -A
     > git commit -m "first commit"
     > git remote add origin git@github.com:Thomasgravy/signatures-side.git
     > git push -u origin master
