@@ -12,6 +12,7 @@ crée un fichier readme.md avec le contenu # name-projet
     > git commit -m "first commit"
     > git remote add origin git@github.com:Thomasgravy/signatures-side.git
     > git push -u origin master
+    > git push -u origin master --force
 
 ### create projet
     > mkdir firstProjet
