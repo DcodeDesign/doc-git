@@ -19,21 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a10acadc-80a4-4dbf-9469-2626adecac1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0-introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-git_init.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.git_add.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-git_commit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-git_status.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-git_pull.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-git_push.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-git_branch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_concept.md" afterDir="false" />
-    </list>
+    <list default="true" id="a10acadc-80a4-4dbf-9469-2626adecac1b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
