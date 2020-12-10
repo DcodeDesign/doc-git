@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584741127410</updated>
       <workItem from="1584741130641" duration="1329000" />
-      <workItem from="1607598422461" duration="5124000" />
+      <workItem from="1607598422461" duration="6685000" />
     </task>
     <servers />
   </component>
@@ -91,5 +91,13 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-955" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607600192639" />
+    <state x="-1225" y="291" key="Vcs.Push.Dialog.v2" timestamp="1607608180382">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1225" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607608180382" />
+    <state x="-1520" y="123" width="1391" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607608086255">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1520" y="123" width="1391" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607608086255" />
   </component>
 </project>
