@@ -20,19 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a10acadc-80a4-4dbf-9469-2626adecac1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0-introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-git_init.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.git_add.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-git_commit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-git_status.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-git_pull.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-git_push.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-git_branch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.guide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_concept.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584741127410</updated>
       <workItem from="1584741130641" duration="1329000" />
-      <workItem from="1607598422461" duration="5124000" />
+      <workItem from="1607598422461" duration="5752000" />
     </task>
     <servers />
   </component>
@@ -105,5 +94,9 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-955" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607600192639" />
+    <state x="-1520" y="123" width="1391" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607608086255">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1520" y="123" width="1391" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607608086255" />
   </component>
 </project>
