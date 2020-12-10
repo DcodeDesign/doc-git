@@ -16,7 +16,6 @@ crée un fichier readme.md avec le contenu # name-projet
 
 ### create projet
     > mkdir firstProjet
-    > mv FirstProjet/ firstProjet/
     > cd firstProjet
     > git init
     > git help config (q -> exit)
