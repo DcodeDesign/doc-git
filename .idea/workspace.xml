@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a10acadc-80a4-4dbf-9469-2626adecac1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ressources.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/8-guide.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
